@@ -24,4 +24,3 @@ My First repository on GitHub / C# Dev
 * Слияние (Merge)
 
 Проверка сохранения в локальный репозиторий.
-Vtryz
